@@ -6,10 +6,10 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Daniel Alfredo Mateo Orellana
+* Ocupación: Estudiante
+* Lugar de residencia: Guayaquil
+* Sitio web: https://danielmateoorellana.github.io/DanielMateoOrellana/
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses

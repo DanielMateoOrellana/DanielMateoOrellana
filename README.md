@@ -14,14 +14,14 @@ proyectos y mis intereses.
 ## Conocimientos
 A lo largo de mi formación y experiencia, he adquirido habilidades en diversas áreas de la tecnología y la programación:
 Lenguajes de Programación
-Java: Desarrollo de aplicaciones de escritorio.
-PHP: Creación de aplicaciones web dinámicas, integraciones con bases de datos MySQL, uso de frameworks como Drupal.
-HTML & CSS: Diseño y maquetación de interfaces web, asegurando una experiencia de usuario óptima y adherencia a los estándares web.
-JavaScript: Desarrollo de aplicaciones web interactivas.
-Python: Desarrollo de scripts y aplicaciones, manejo de datos y análisis.
-Front-End: Diseño de interfaces de usuario responsivas y atractivas utilizando HTML, CSS, y JavaScript.
-Bases de Datos: Diseño y gestión de bases de datos relacionales con MySQL, así como conocimiento en bases de datos no relacionales como MongoDB.
-Control de Versiones: Uso de Git y plataformas como GitHub para control de versiones y colaboración en proyectos.
+* Java: Desarrollo de aplicaciones de escritorio.
+* PHP: Creación de aplicaciones web dinámicas, integraciones con bases de datos MySQL, uso de frameworks como Drupal.
+* HTML & CSS: Diseño y maquetación de interfaces web, asegurando una experiencia de usuario óptima y adherencia a los estándares web.
+* JavaScript: Desarrollo de aplicaciones web interactivas.
+* Python: Desarrollo de scripts y aplicaciones, manejo de datos y análisis.
+* Front-End: Diseño de interfaces de usuario responsivas y atractivas utilizando HTML, CSS, y JavaScript.
+* Bases de Datos: Diseño y gestión de bases de datos relacionales con MySQL, así como conocimiento en bases de datos no relacionales como MongoDB.
+* Control de Versiones: Uso de Git y plataformas como GitHub para control de versiones y colaboración en proyectos.
 ## Idiomas
 Español: Nativo.
 Inglés: Avanzado.

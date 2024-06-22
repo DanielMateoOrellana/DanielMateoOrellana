@@ -23,12 +23,11 @@ Lenguajes de Programación
 * Bases de Datos: Diseño y gestión de bases de datos relacionales con MySQL, así como conocimiento en bases de datos no relacionales como MongoDB.
 * Control de Versiones: Uso de Git y plataformas como GitHub para control de versiones y colaboración en proyectos.
 ## Idiomas
-Español: Nativo.
-Inglés: Avanzado.
+* Español: Nativo.
+* Inglés: Avanzado.
 ## Proyectos
 * [Analizador Léxico PHP](https://github.com/DanielMateoOrellana/AnalizadorLexico-Grupo4)
 * [Landing Page](https://github.com/DanielMateoOrellana/landing.git)
-  
 ## Intereses
 Además de mis habilidades técnicas, tengo un gran interés en:
 * Desarrollo de software innovador.

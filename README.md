@@ -1,14 +1,16 @@
 # Hi there, I'm Daniel Mateo Orellana 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Computer+Engineer+🎓;Full+Stack+Developer+💻;Cloud+%26+Backend+Enthusiast+☁️" alt="Typing SVG" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer_Engineer-ESPOL-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-Expert-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Guayaquil_EC-FF9900?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Computer Engineer graduate from ESPOL** based in **Guayaquil, Ecuador**. I specialize in building robust, scalable software, bridging Backend development (Java, .NET, Python) with modern Cloud infrastructure (AWS). I am passionate about optimizing the full software development lifecycle, implementing DevOps best practices, and driving continuous improvement.
+I am a **Computer Engineer graduate from ESPOL** based in **Guayaquil, Ecuador**. I specialize in building robust, scalable software, bridging Backend development (Java, .NET, Python) with modern Cloud infrastructure (AWS). I am passionate about optimizing the full software development lifecycle and implementing DevOps best practices.
 
 **Currently focused on:** Advanced Backend Architectures, Microservices, and Observability.
 
@@ -17,49 +19,38 @@ I am a **Computer Engineer graduate from ESPOL** based in **Guayaquil, Ecuador**
 ## 🛠️ Tech Stack & Tools
 
 ### Programming Languages & Frameworks
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
 
 ### Cloud, Databases & DevOps
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielMateoOrellana&show_icons=true&theme=radical" alt="Daniel's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMateoOrellana&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
 ## 🛠️ Featured Projects
 
-### [RIE - Repositorio Institucional de Evidencias](https://github.com/DanielMateoOrellana/RIE)
-**Key Contribution:** Developed a comprehensive document management system for the Faculty of Electrical and Computer Engineering (FIEC) at ESPOL. Focused on optimizing the architectural workflow for organizing academic evidence.
+### [RIE - Document Management System (FIEC)](https://github.com/DanielMateoOrellana/GESTION-DOCUMENTAL-FIEC)
+**Key Contribution:** Developed a comprehensive document management system for the Faculty of Electrical and Computer Engineering (FIEC) at ESPOL. This project, which served as my graduation thesis, focused on the architectural design for organizing and persisting academic evidence, ensuring high data integrity and efficient retrieval.
 
 ### [PHP Lexical Analyzer](https://github.com/DanielMateoOrellana/AnalizadorLexico-Grupo4)
-**Key Contribution:** Implemented a robust lexical analyzer designed to process and validate syntax for the PHP programming language.
+**Key Contribution:** Implemented a robust lexical analyzer designed to process, tokenize, and validate syntax specifically for the PHP programming language. Demonstrated expertise in compiler theory and low-level language processing.
 
 ---
 
-## 📍 Where to Find Me
+## 📍 Education & More
 
-* 🌍 Location: **Guayaquil, Ecuador**
 * 🎓 Degree: **Computer Engineer (Ingeniero en Computación)**, *Escuela Superior Politécnica del Litoral (ESPOL)*
 * 💬 Languages: **Spanish** (Native), **English** (Advanced)
-* 🎮 Fun Fact: When not coding, I’m in **Rocket League** or **Valorant**, or optimizing my setup (i7 + RTX 4060).
+* 🎮 Fun Fact: When not coding, I’m in **Rocket League** or **Valorant**, or optimizing my workstation hardware (i7 + RTX 5060).
 
 ---
 

@@ -1,8 +1,14 @@
 <div align="center">
 
-<a href="https://github.com/DanielMateoOrellana">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Daniel%20Mateo%20Orellana&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Enterprise%20Systems%20%26%20Cloud%20Infrastructure&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
-</a>
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" />
+  </picture>
+  Hi, I'm Daniel Mateo Orellana
+</h1>
+
+<h3>Software Engineer · Enterprise Systems & Cloud Infrastructure</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00ADD8&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Java+Spring+Boot+Microservices+on+AWS+%E2%98%81%EF%B8%8F;Oracle+PL%2FSQL+%7C+Event-Driven+Architectures+%7C+CI%2FCD;Computer+Engineer+%40+ESPOL+%E2%80%94+Guayaquil%2C+Ecuador+%F0%9F%87%AA%F0%9F%87%A8" alt="typing"/>
@@ -402,4 +408,4 @@ I'm open to <b>consultancy opportunities, remote collaboration, and meaningful o
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer"/>
+<sub>⭐ From <a href="https://github.com/DanielMateoOrellana">DanielMateoOrellana</a></sub>
